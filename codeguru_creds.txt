@@ -1,0 +1,19 @@
+Admin console for Keycloak
+---------------
+username: codeguru
+pswd:     chris.sangwa
+
+
+
+
+GMAI ACCOUNT
+------------
+username: gurucode195@gmail.com
+password: CODEguru@2022
+
+
+
+GITHUB
+------------
+username: gurucode195@gmail.com
+password: CODEguru@2022
